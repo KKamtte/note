@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63fcb30de02d918b",
+        "id": "5e67f9f45e5a3cba",
         "type": "tabs",
         "children": [
           {
-            "id": "36dc757c846c2da7",
+            "id": "63cae03f0010b336",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,21 +16,9 @@
                 "file": "Welcome.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "260a13b785b48c47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "094c733c39cb9662",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ]
@@ -52,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -68,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Spring/스프링 입문/start.spring.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for start.spring.io"
             }
           },
           {
@@ -116,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Spring/스프링 입문/start.spring.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from start.spring.io"
             }
           },
           {
@@ -129,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
-              }
+                "file": "Spring/스프링 입문/start.spring.io.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of start.spring.io"
             }
           }
         ]
@@ -152,16 +160,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
     }
   },
-  "active": "36dc757c846c2da7",
+  "active": "63cae03f0010b336",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Intellij 단축키.md",
+    "Spring/Controller Service Repository.md",
+    "Spring/스프링 입문/start.spring.io.md",
+    "Database/01. Lock.md",
+    "Database/02. MVCC.md",
+    "Java/이것이 자바다/Part1/Chapter01/프로그래밍 언어와 자바.md",
+    "Java/01 Hello World.md",
+    "NestJS/02. NestJS 기본 구조.md",
+    "NestJS/01. NodeJS 란.md",
+    "NestJS/13. Authentication (인증)/JWT Token.md",
+    "JVM/JAVA -> MSA.md",
+    "Welcome.md",
+    "Webflux/Webflux 의 4가지 인터페이스 역할.md",
+    "Webflux",
+    "Untitled.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "JVM",
+    "Database",
+    "Spring/스프링 입문"
   ]
 }
