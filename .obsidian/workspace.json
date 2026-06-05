@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webflux/02. OOM 방지를 위한 Backpressure.md",
+                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "02. OOM 방지를 위한 Backpressure"
+              "title": "03. Spring MVC 와 WebFlux 차이"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 입문/start.spring.io.md",
+                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for start.spring.io"
+              "title": "03. Spring MVC 와 WebFlux 차이 의 백링크"
             }
           },
           {
@@ -142,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 입문/start.spring.io.md",
+                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of start.spring.io"
+              "title": "03. Spring MVC 와 WebFlux 차이 의 개요"
+            }
+          },
+          {
+            "id": "5c25bf239f42ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,13 +176,22 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63cae03f0010b336",
+  "active": "5c25bf239f42ecdb",
   "lastOpenFiles": [
-    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
+    "JVM/JAVA -> MSA.md",
+    "Webflux/03. Spring MVC 와 WebFlux 차이.md",
+    "NestJS/13. Authentication (인증)/Session vs JWT Token.md",
+    "NestJS/13. Authentication (인증)/Session.md",
+    "NestJS/13. Authentication (인증)/Refresh Token & Access Token.md",
+    "NestJS/13. Authentication (인증)/JWT Token.md",
+    "NestJS/02. NestJS 기본 구조.md",
+    "NestJS/01. NodeJS 란.md",
     "Webflux/02. OOM 방지를 위한 Backpressure.md",
+    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
     "Welcome.md",
     "Intellij 단축키.md",
     "Spring/Controller Service Repository.md",
@@ -181,10 +200,6 @@
     "Database/02. MVCC.md",
     "Java/이것이 자바다/Part1/Chapter01/프로그래밍 언어와 자바.md",
     "Java/01 Hello World.md",
-    "NestJS/02. NestJS 기본 구조.md",
-    "NestJS/01. NodeJS 란.md",
-    "NestJS/13. Authentication (인증)/JWT Token.md",
-    "JVM/JAVA -> MSA.md",
     "Webflux",
     "Untitled.md",
     "Untitled.base",
