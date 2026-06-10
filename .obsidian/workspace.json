@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
+                "file": "Webflux/04. Mono 생성 기법.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03. Spring MVC 와 WebFlux 차이"
+              "title": "04. Mono 생성 기법"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
+                "file": "Webflux/04. Mono 생성 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03. Spring MVC 와 WebFlux 차이 의 백링크"
+              "title": "04. Mono 생성 기법 의 백링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webflux/03. Spring MVC 와 WebFlux 차이.md",
+                "file": "Webflux/04. Mono 생성 기법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03. Spring MVC 와 WebFlux 차이 의 개요"
+              "title": "04. Mono 생성 기법 의 개요"
             }
           },
           {
@@ -180,18 +180,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c25bf239f42ecdb",
+  "active": "63cae03f0010b336",
   "lastOpenFiles": [
-    "JVM/JAVA -> MSA.md",
+    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
+    "Webflux/04. Mono 생성 기법.md",
     "Webflux/03. Spring MVC 와 WebFlux 차이.md",
+    "Webflux/02. OOM 방지를 위한 Backpressure.md",
+    "JVM/JAVA -> MSA.md",
     "NestJS/13. Authentication (인증)/Session vs JWT Token.md",
     "NestJS/13. Authentication (인증)/Session.md",
     "NestJS/13. Authentication (인증)/Refresh Token & Access Token.md",
     "NestJS/13. Authentication (인증)/JWT Token.md",
     "NestJS/02. NestJS 기본 구조.md",
     "NestJS/01. NodeJS 란.md",
-    "Webflux/02. OOM 방지를 위한 Backpressure.md",
-    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
     "Welcome.md",
     "Intellij 단축키.md",
     "Spring/Controller Service Repository.md",
