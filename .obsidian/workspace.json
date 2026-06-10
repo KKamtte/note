@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webflux/04. Mono 생성 기법.md",
+                "file": "Webflux/05. Flux 생성 기법.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04. Mono 생성 기법"
+              "title": "05. Flux 생성 기법"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "63cae03f0010b336",
   "lastOpenFiles": [
-    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
     "Webflux/04. Mono 생성 기법.md",
+    "Webflux/05. Flux 생성 기법.md",
+    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
     "Webflux/03. Spring MVC 와 WebFlux 차이.md",
     "Webflux/02. OOM 방지를 위한 Backpressure.md",
     "JVM/JAVA -> MSA.md",
