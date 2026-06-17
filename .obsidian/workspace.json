@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webflux/08. 결합 연산자.md",
+                "file": "Webflux/04. Mono 생성 기법.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08. 결합 연산자"
+              "title": "04. Mono 생성 기법"
+            }
+          },
+          {
+            "id": "5211adf69fa77842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webflux/11. 재시도 처리.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "11. 재시도 처리"
+            }
+          },
+          {
+            "id": "6585798009039cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webflux/04. Mono 생성 기법.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "04. Mono 생성 기법"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +118,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -209,16 +237,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c5a8cdb5f72644a",
+  "active": "5045c756a30d37c5",
   "lastOpenFiles": [
-    "Webflux/07. 필터링 연산자.md",
-    "Webflux/08. 결합 연산자.md",
-    "Webflux/06. 변환 연산자.md",
+    "Webflux/12. 사이드이펙트.md",
     "Webflux/05. Flux 생성 기법.md",
-    "Webflux/04. Mono 생성 기법.md",
-    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
     "Webflux/03. Spring MVC 와 WebFlux 차이.md",
     "Webflux/02. OOM 방지를 위한 Backpressure.md",
+    "Webflux/01. Webflux 의 4가지 인터페이스 역할.md",
+    "Webflux/11. 재시도 처리.md",
+    "Webflux/10.  에러 처리.md",
+    "Webflux/06. 변환 연산자.md",
+    "Webflux/04. Mono 생성 기법.md",
+    "Intellij 단축키.md",
+    "Webflux/09. 집계 연산자.md",
+    "Webflux/08. 결합 연산자.md",
+    "Webflux/07. 필터링 연산자.md",
     "JVM/JAVA -> MSA.md",
     "NestJS/13. Authentication (인증)/Session vs JWT Token.md",
     "NestJS/13. Authentication (인증)/Session.md",
@@ -227,15 +260,12 @@
     "NestJS/02. NestJS 기본 구조.md",
     "NestJS/01. NodeJS 란.md",
     "Welcome.md",
-    "Intellij 단축키.md",
     "Spring/Controller Service Repository.md",
     "Spring/스프링 입문/start.spring.io.md",
     "Database/01. Lock.md",
     "Database/02. MVCC.md",
     "Java/이것이 자바다/Part1/Chapter01/프로그래밍 언어와 자바.md",
-    "Java/01 Hello World.md",
     "Webflux",
-    "Untitled.md",
     "Untitled.base",
     "Untitled.canvas",
     "JVM",
